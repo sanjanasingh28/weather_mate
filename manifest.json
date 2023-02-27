@@ -1,0 +1,12 @@
+{
+    "name": "Weathermate",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "128":"icon1.png"
+    },
+    "permissions": ["activeTab"]
+}
